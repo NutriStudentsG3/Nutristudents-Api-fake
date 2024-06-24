@@ -1,8 +1,6 @@
 {
-    "/login": "/login",
-    "/usuario/:id": "/usuario/:id",
-    "/comidas": "/Comidas",
-    "/planes": "/Planes"
-  
+  "/usuario/login": "/usuario/login",
+  "/usuario/:id": "/usuario/:id",
+  "/comidas": "/Comidas",
+  "/planes": "/Planes"
 }
-  
