@@ -1,9 +1,8 @@
 {
-    "/api/v1/*": "/$1",
-    "/usuario/:id": "/usuario?id=:Id",
-    "/transactions/:id": "/transactions?id=:id",
-    "/Comidas/:id": "/Comidas?id=:Id",
-    "/Planes/:id": "/Planes?id=:Id"
-
-  }
+    "/login": "/login",
+    "/usuario/:id": "/usuario/:id",
+    "/comidas": "/Comidas",
+    "/planes": "/Planes"
+  
+}
   

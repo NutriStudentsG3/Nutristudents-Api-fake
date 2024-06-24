@@ -1,5 +1,5 @@
 {
-    "usuario": [
+  "usuario": [
     {
       "id": 1,
       "username": "WinRoco",
@@ -151,7 +151,6 @@
       ]
     }
   ],
-
   "Comidas": [
     {
       "id": 1,
@@ -161,7 +160,7 @@
       "carbs": 30,
       "fat": 15,
       "protein": 25,
-      "image" : "https://www.comedera.com/wp-content/uploads/2015/10/ensalada-de-pollo.jpg"
+      "image": "https://www.comedera.com/wp-content/uploads/2015/10/ensalada-de-pollo.jpg"
     },
     {
       "id": 2,
@@ -171,7 +170,7 @@
       "carbs": 5,
       "fat": 25,
       "protein": 40,
-      "image" : "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/ThinkstockPhotos-509422213_1_3847653377.jpg"
+      "image": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/ThinkstockPhotos-509422213_1_3847653377.jpg"
     },
     {
       "id": 3,
@@ -181,7 +180,7 @@
       "carbs": 90,
       "fat": 20,
       "protein": 15,
-      "image" : "https://cookingwithelo.com/wp-content/uploads/2022/06/Pasta-al-pesto.jpg"
+      "image": "https://cookingwithelo.com/wp-content/uploads/2022/06/Pasta-al-pesto.jpg"
     },
     {
       "id": 4,
@@ -191,7 +190,7 @@
       "carbs": 50,
       "fat": 20,
       "protein": 30,
-      "text" : "https://www.gourmet.cl/wp-content/uploads/2021/08/Tacos_Carne_Interior_Gourmet.jpg"
+      "text": "https://www.gourmet.cl/wp-content/uploads/2021/08/Tacos_Carne_Interior_Gourmet.jpg"
     },
     {
       "id": 5,
@@ -201,7 +200,7 @@
       "carbs": 20,
       "fat": 5,
       "protein": 30,
-      "text" : "https://www.ictiva.com/blog/wp-content/uploads/2015/08/shutterstock_183099245-1.jpg"
+      "text": "https://www.ictiva.com/blog/wp-content/uploads/2015/08/shutterstock_183099245-1.jpg"
     },
     {
       "id": 6,
@@ -211,7 +210,7 @@
       "carbs": 20,
       "fat": 5,
       "protein": 5,
-      "image" : "https://mojo.generalmills.com/api/public/content/L8WwsN0icEKLkTOgsQsJzA_gmi_hi_res_jpeg.jpeg?v=782dcdfb&t=16e3ce250f244648bef28c5949fb99ff"
+      "image": "https://mojo.generalmills.com/api/public/content/L8WwsN0icEKLkTOgsQsJzA_gmi_hi_res_jpeg.jpeg?v=782dcdfb&t=16e3ce250f244648bef28c5949fb99ff"
     },
     {
       "id": 7,
@@ -221,7 +220,7 @@
       "carbs": 50,
       "fat": 25,
       "protein": 35,
-      "image" : "https://d36fw6y2wq3bat.cloudfront.net/recipes/pollo-al-curry-con-col-rizada/900/pollo-al-curry-con-col-rizada_version_1698724941.jpg"
+      "image": "https://d36fw6y2wq3bat.cloudfront.net/recipes/pollo-al-curry-con-col-rizada/900/pollo-al-curry-con-col-rizada_version_1698724941.jpg"
     },
     {
       "id": 8,
@@ -231,7 +230,7 @@
       "carbs": 0,
       "fat": 40,
       "protein": 60,
-      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/16/c3/7d/6b/bistec-a-la-plancha.jpg"
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/c3/7d/6b/bistec-a-la-plancha.jpg"
     },
     {
       "id": 9,
@@ -241,7 +240,7 @@
       "carbs": 70,
       "fat": 10,
       "protein": 15,
-      "image" : "https://www.goya.com/media/7675/rice-with-black-beans.jpg?width=470"
+      "image": "https://www.goya.com/media/7675/rice-with-black-beans.jpg?width=470"
     },
     {
       "id": 10,
@@ -251,46 +250,79 @@
       "carbs": 50,
       "fat": 2,
       "protein": 3,
-      "image" : "https://alqueria.com.co/sites/default/files/styles/1327_612/public/2021-12/CH_Fotos_Ensalada-de-frutas_1400x700.jpg?h=8165685c&itok=S5QyTNb8"
+      "image": "https://alqueria.com.co/sites/default/files/styles/1327_612/public/2021-12/CH_Fotos_Ensalada-de-frutas_1400x700.jpg?h=8165685c&itok=S5QyTNb8"
     }
   ],
-
-    "Planes": [
-      {
-        "id": 1,
-        "name": "Plan de Pérdida de Peso",
-        "description": "Un plan diseñado para ayudarte a perder peso de manera saludable.",
-        "category": "Pérdida de Peso",
-        "weeks": [
-          {
-            "days": [
-              {
-                "breakfast": "Avena con frutas",
-                "lunch": "Ensalada de pollo",
-                "snack": "Yogur con nueces",
-                "dinner": "Pescado a la parrilla con verduras"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Plan de Mantenimiento",
-        "description": "Un plan para mantener tu peso y salud óptima.",
-        "category": "Mantenimiento",
-        "weeks": [
-          {
-            "days": [
-              {
-                "breakfast": "Huevos revueltos con espinacas",
-                "lunch": "Sándwich de pavo",
-                "snack": "Frutas variadas",
-                "dinner": "Pollo al horno con quinoa"
-              }
-            ]
-          }
-        ]
-      }
-    ]
+  "Planes": [
+    {
+      "id": 1,
+      "name": "Plan de Pérdida de Peso",
+      "description": "Un plan diseñado para ayudarte a perder peso de manera saludable.",
+      "category": "Pérdida de Peso",
+      "weeks": [
+        {
+          "days": [
+            {
+              "breakfast": "Avena con frutas",
+              "lunch": "Ensalada de pollo",
+              "snack": "Yogur con nueces",
+              "dinner": "Pescado a la parrilla con verduras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Plan de Mantenimiento",
+      "description": "Un plan para mantener tu peso y salud óptima.",
+      "category": "Mantenimiento",
+      "weeks": [
+        {
+          "days": [
+            {
+              "breakfast": "Huevos revueltos con espinacas",
+              "lunch": "Sándwich de pavo",
+              "snack": "Frutas variadas",
+              "dinner": "Pollo al horno con quinoa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sender": "667647b3f92ecd5e0492c7cd",
+      "receiver": "667647b3f92ecd5e0492c7cc",
+      "type": "text",
+      "content": "Hola papu sandero",
+      "username": "sebas",
+      "name": "sebas",
+      "lastname": "val",
+      "level": 3,
+      "college": "Example University",
+      "career": "Computer Science",
+      "age": 30,
+      "email": "sebas@example.com",
+      "password": "password123",
+      "image": "",
+      "id": 3
+    },
+    {
+      "sender": "667647b3f92ecd5e0492c7cd",
+      "receiver": "667647b3f92ecd5e0492c7cc",
+      "type": "text",
+      "content": "Hola papu sandero",
+      "username": "sebas",
+      "name": "sebas",
+      "lastname": "val",
+      "level": 3,
+      "college": "Example University",
+      "career": "Computer Science",
+      "age": 30,
+      "email": "sebas@example.com",
+      "password": "password123",
+      "image": "",
+      "id": 4
+    }
+  ]
 }
