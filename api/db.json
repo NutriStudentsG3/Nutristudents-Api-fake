@@ -154,7 +154,7 @@
 
 "Comidas": [
   {
-    "id": "1",
+    "foodId": "1",
     "name": "Ensalada de pollo",
     "calories": 350,
     "serving_size": 306,
@@ -164,7 +164,7 @@
     "image" : "https://www.comedera.com/wp-content/uploads/2015/10/ensalada-de-pollo.jpg"
   },
   {
-    "id": "2",
+    "foodId": "2",
     "name": "Salmón a la parrilla",
     "calories": 450,
     "serving_size": 400,
@@ -174,7 +174,7 @@
     "image" : "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/ThinkstockPhotos-509422213_1_3847653377.jpg"
   },
   {
-    "id": "3",
+    "foodId": "3",
     "name": "Pasta al pesto",
     "calories": 600,
     "serving_size": 290,
@@ -184,7 +184,7 @@
     "image" : "https://cookingwithelo.com/wp-content/uploads/2022/06/Pasta-al-pesto.jpg"
   },
   {
-    "id": "4",
+    "foodId": "4",
     "name": "Tacos de carne",
     "calories": 500,
     "serving_size": 280,
@@ -194,7 +194,7 @@
     "text" : "https://www.gourmet.cl/wp-content/uploads/2021/08/Tacos_Carne_Interior_Gourmet.jpg"
   },
   {
-    "id": "5",
+    "foodId": "5",
     "name": "Batido de proteínas",
     "calories": 250,
     "serving_size": 420,
@@ -204,7 +204,7 @@
     "text" : "https://www.ictiva.com/blog/wp-content/uploads/2015/08/shutterstock_183099245-1.jpg"
   },
   {
-    "id": "6",
+    "foodId": "6",
     "name": "Sopa de verduras",
     "calories": 150,
     "serving_size": 300,
@@ -214,7 +214,7 @@
     "image" : "https://mojo.generalmills.com/api/public/content/L8WwsN0icEKLkTOgsQsJzA_gmi_hi_res_jpeg.jpeg?v=782dcdfb&t=16e3ce250f244648bef28c5949fb99ff"
   },
   {
-    "id": "7",
+    "foodId": "7",
     "name": "Pollo al curry",
     "calories": 550,
     "serving_size": 350,
@@ -224,7 +224,7 @@
     "image" : "https://d36fw6y2wq3bat.cloudfront.net/recipes/pollo-al-curry-con-col-rizada/900/pollo-al-curry-con-col-rizada_version_1698724941.jpg"
   },
   {
-    "id": "8",
+    "foodId": "8",
     "name": "Bistec a la plancha",
     "calories": 700,
     "serving_size": 400,
@@ -234,7 +234,7 @@
     "image" : "https://media-cdn.tripadvisor.com/media/photo-s/16/c3/7d/6b/bistec-a-la-plancha.jpg"
   },
   {
-    "id": "9",
+    "foodId": "9",
     "name": "Arroz con frijoles",
     "calories": 400,
     "serving_size": 350,
@@ -244,7 +244,7 @@
     "image" : "https://www.goya.com/media/7675/rice-with-black-beans.jpg?width=470"
   },
   {
-    "id": "10",
+    "foodId": "10",
     "name": "Ensalada de frutas",
     "calories": 200,
     "serving_size": 250,

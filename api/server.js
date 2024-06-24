@@ -40,7 +40,7 @@ server.post('/usuario/login', (req, res) => {
 });
 // Endpoint to get user info by ID
 server.get('/usuario/:id', (req, res) => {
-    const userId = parseInt(req.params.id, 10);
+    const userId = req.params.id;
     const user = router.db.get('usuario').find({ id: userId }).value();
   
     if (user) {
