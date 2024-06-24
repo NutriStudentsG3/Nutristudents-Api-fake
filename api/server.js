@@ -20,7 +20,7 @@ server.use(jsonServer.rewriter(routes));
 
 
 // Endpoint para autenticación de usuarios (login)
-server.post('/login', (req, res) => {
+server.post('/usuario/login', (req, res) => {
   const { email, contraseña } = req.body;
   console.log('Email recibido:', email);
   console.log('Contraseña recibida:', contraseña);
