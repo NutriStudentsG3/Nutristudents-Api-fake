@@ -257,40 +257,94 @@
 
   "Planes": [
     {
-      "id": "1",
-      "name": "Plan de Pérdida de Peso",
-      "description": "Un plan diseñado para ayudarte a perder peso de manera saludable.",
-      "category": "Pérdida de Peso",
-      "weeks": [
-        {
-          "days": [
+        "id": "1",
+        "name": "Plan de Ejemplo 1",
+        "description": "Descripción del plan de ejemplo 1",
+        "category": "Mantenimiento",
+        "createdDate": "2024-12-12T00:00:00.000Z",
+        "weeks": [
             {
-              "breakfast": "Avena con frutas",
-              "lunch": "Ensalada de pollo",
-              "snack": "Yogur con nueces",
-              "dinner": "Pescado a la parrilla con verduras"
+                "days": [
+                    {
+                        "breakfast": [
+                            {"name": "arroz", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "Leche", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "arroz", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "te", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100}
+                        ],
+                        "dinner": [],
+                        "snack": [],
+                        "lunch": []
+                    },
+                    {
+                        "breakfast": [
+                            {"name": "palta", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "arroz", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100}
+                        ],
+                        "dinner": [],
+                        "snack": [],
+                        "lunch": []
+                    }
+                ]
             }
-          ]
-        }
-      ]
+        ],
+        "saved": false,
+        "isPublic": true
     },
     {
-      "id": "2",
-      "name": "Plan de Mantenimiento",
-      "description": "Un plan para mantener tu peso y salud óptima.",
-      "category": "Mantenimiento",
-      "weeks": [
-        {
-          "days": [
+        "id": "2",
+        "name": "Plan de Ejemplo 2",
+        "description": "Descripción del plan de ejemplo 2",
+        "category": "Pérdida de Peso",
+        "createdDate": "2024-12-12T00:00:00.000Z",
+        "weeks": [
             {
-              "breakfast": "Huevos revueltos con espinacas",
-              "lunch": "Sándwich de pavo",
-              "snack": "Frutas variadas",
-              "dinner": "Pollo al horno con quinoa"
+                "days": [
+                    {
+                        "breakfast": [
+                            {"name": "Leche", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "papa", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100}
+                        ],
+                        "dinner": [],
+                        "snack": [],
+                        "lunch": []
+                    },
+                    {
+                        "breakfast": [
+                            {"name": "empanad", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "pastel", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100}
+                        ],
+                        "dinner": [],
+                        "snack": [],
+                        "lunch": []
+                    }
+                ]
+            },
+            {
+                "days": [
+                    {
+                        "breakfast": [
+                            {"name": "Leche", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "Leche", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100}
+                        ],
+                        "dinner": [],
+                        "snack": [],
+                        "lunch": []
+                    },
+                    {
+                        "breakfast": [
+                            {"name": "Leche", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100},
+                            {"name": "Leche", "foodId": "1312313", "calories": 200, "grams": 100, "protein": 100, "sugar": 100, "fat": 100}
+                        ],
+                        "dinner": [],
+                        "snack": [],
+                        "lunch": []
+                    }
+                ]
             }
-          ]
-        }
-      ]
+        ],
+        "saved": false,
+        "isPublic": true
     }
   ]
 }
